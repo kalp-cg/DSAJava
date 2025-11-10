@@ -1,3 +1,4 @@
+package DSA;
 //write a program to implement satck using an array with the following operations.
 //1.push 2.pop 3.display
 

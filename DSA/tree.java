@@ -1,3 +1,4 @@
+package DSA;
 //write a program to create a binery tree and print:
 //1.inorder 2.postorder
 
